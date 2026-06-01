@@ -7,4 +7,4 @@ This repository provides a simple implementation of a transmissivity feature des
 
 ### Citiation
 
-To be filled. 
+M. Hess, A. Rheinwalt, B. Bookhagen: Improving Vegetation Mapping from LiDAR Point Clouds Using a Transmissivity-Based Feature
